@@ -1,0 +1,11 @@
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\bin\Debug\net8.0\Pedidos.Domain.deps.json
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\bin\Debug\net8.0\Pedidos.Domain.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\bin\Debug\net8.0\Pedidos.Domain.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\refint\Pedidos.Domain.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\Pedidos.Domain.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Domain\obj\Debug\net8.0\ref\Pedidos.Domain.dll

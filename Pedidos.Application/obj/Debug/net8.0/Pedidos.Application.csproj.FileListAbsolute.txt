@@ -1,0 +1,17 @@
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\bin\Debug\net8.0\Pedidos.Application.deps.json
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\bin\Debug\net8.0\Pedidos.Application.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\bin\Debug\net8.0\Pedidos.Application.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\bin\Debug\net8.0\Pedidos.Domain.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\bin\Debug\net8.0\Pedidos.Infra.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\bin\Debug\net8.0\Pedidos.Domain.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\bin\Debug\net8.0\Pedidos.Infra.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos.Application.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos.Application.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos.Application.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos..42512212.Up2Date
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos.Application.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\refint\Pedidos.Application.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\Pedidos.Application.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Application\obj\Debug\net8.0\ref\Pedidos.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\bin\Debug\net8.0\Pedidos.Infra.deps.json
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\bin\Debug\net8.0\Pedidos.Infra.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\bin\Debug\net8.0\Pedidos.Infra.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\bin\Debug\net8.0\Pedidos.Domain.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\bin\Debug\net8.0\Pedidos.Domain.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos.Infra.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos.Infra.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos.Infra.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos..7DAC09E2.Up2Date
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos.Infra.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\refint\Pedidos.Infra.dll
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\Pedidos.Infra.pdb
+C:\Users\Marcelo\Documents\Programação\TesteDevInside102024\Pedidos\Pedidos.Infra\obj\Debug\net8.0\ref\Pedidos.Infra.dll

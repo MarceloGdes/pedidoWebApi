@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pedidos.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Pedidos.Api.Controllers.OrderController.CreateOrder(Pedidos.Application.DTOs.Order.CreateOrderDto)">
+            <summary>
+            Cria um novo pedido.
+            </summary>
+            <param name="dto">Dados para criação do pedido.</param>
+        </member>
+        <member name="M:Pedidos.Api.Controllers.OrderController.AddProducts(System.Int32,Pedidos.Application.DTOs.OrderProduct.UpdateOrderProductDto)">
+            <summary>
+            Adiciona produtos a um pedido existente.
+            </summary>
+            <param name="id">ID do pedido.</param>
+            <param name="dto">Dados dos produtos a serem adicionados.</param>
+        </member>
+        <member name="M:Pedidos.Api.Controllers.OrderController.RemoveProducts(System.Int32,Pedidos.Application.DTOs.OrderProduct.UpdateOrderProductDto)">
+            <summary>
+            Remove produtos de um pedido existente.
+            </summary>
+            <param name="id">ID do pedido.</param>
+            <param name="dto">Dados dos produtos a serem removidos.</param>
+        </member>
+        <member name="M:Pedidos.Api.Controllers.OrderController.CloseOrder(System.Int32)">
+            <summary>
+            Fecha um pedido existente.
+            </summary>
+            <param name="id">ID do pedido.</param>
+        </member>
+        <member name="M:Pedidos.Api.Controllers.OrderController.GetOrderById(System.Int32)">
+            <summary>
+            Obtém um pedido e seus produtos pelo ID.
+            </summary>
+            <param name="id">ID do pedido.</param>
+        </member>
+        <member name="M:Pedidos.Api.Controllers.OrderController.GetOrders(System.String)">
+            <summary>
+            Obtém todos os pedidos.
+            </summary>
+            <param name="status">Filtra os pedidos pelo Status (closed ou open) - opcional.</param>
+        </member>
+        <member name="M:Pedidos.Api.Controllers.ProductController.GetProducts">
+            <summary>
+            Obtém os produtos.
+            </summary>
+        </member>
+    </members>
+</doc>
